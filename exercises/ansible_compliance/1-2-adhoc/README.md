@@ -146,7 +146,7 @@ direct output of what the shell command returned. This data can be
 stored to a variable and directly parsed inside your Ansible playbook
 later on.
 
-And run it one more time with the `cat /etc/redhat-relase` shell command.
+And run it one more time with the `cat /etc/redhat-release` shell command.
 
 | Key                | Value           | Note |
 |--------------------|-----------------|------|
